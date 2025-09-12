@@ -1,0 +1,7 @@
+[
+{"id": 1, "name": "Company", "parent": null},
+{"id": 2, "name": "HR", "parent": "Company"},
+{"id": 3, "name": "Engineering", "parent": "Company"},
+{"id": 4, "name": "Frontend", "parent": "Engineering"},
+{"id": 5, "name": "Backend", "parent": "Engineering"}
+]

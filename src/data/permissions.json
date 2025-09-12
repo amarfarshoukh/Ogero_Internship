@@ -1,0 +1,6 @@
+[
+{"id": 1, "name": "read:users", "description": "Can view users list"},
+{"id": 2, "name": "create:users", "description": "Can create new users"},
+{"id": 3, "name": "update:users", "description": "Can edit users"},
+{"id": 4, "name": "delete:users", "description": "Can delete users"}
+]

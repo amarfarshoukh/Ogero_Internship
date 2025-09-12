@@ -1,0 +1,5 @@
+[
+{"id": 1, "name": "Admin", "permissions": ["read:users", "create:users", "update:users", "delete:users"]},
+{"id": 2, "name": "Editor", "permissions": ["read:users", "update:users"]},
+{"id": 3, "name": "Viewer", "permissions": ["read:users"]}
+]

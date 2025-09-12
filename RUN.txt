@@ -1,0 +1,4 @@
+## How to Run this code 
+
+cd "C:\Users\user\admin.console" ## (location of the file)
+npm run dev
