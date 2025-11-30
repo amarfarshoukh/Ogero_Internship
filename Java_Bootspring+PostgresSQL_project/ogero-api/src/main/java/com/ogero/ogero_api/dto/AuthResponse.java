@@ -1,1 +1,10 @@
-/* File content omitted for brevity. Insert full code from chat. */
+package com.ogero.ogero_api.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class AuthResponse {
+    private String token;
+}

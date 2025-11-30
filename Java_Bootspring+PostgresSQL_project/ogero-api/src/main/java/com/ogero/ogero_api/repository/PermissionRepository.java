@@ -1,1 +1,7 @@
-/* File content omitted for brevity. Insert full code from chat. */
+package com.ogero.ogero_api.repository;
+
+import com.ogero.ogero_api.model.Permission;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PermissionRepository extends JpaRepository<Permission, Long> {
+}
